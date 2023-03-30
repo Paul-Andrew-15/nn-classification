@@ -23,7 +23,7 @@ You are required to help the manager to predict the right group of the new custo
 &emsp;Import the necessary packages & modules
 ### STEP 2:
 &emsp;Load and read the dataset
-### STEP 3:
+### STEP 3: 
 &emsp;Perform pre processing and clean the dataset
 ### STEP 4:
 &emsp;Encode categorical value into numerical values using ordinal/label/one hot encoding
